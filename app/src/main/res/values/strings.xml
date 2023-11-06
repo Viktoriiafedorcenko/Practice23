@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice23</string>
+    <string name="btn_on">Начать вычисления</string>
+    <string name="btn_off">Идут вычисления</string>
+</resources>
